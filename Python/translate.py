@@ -1,7 +1,7 @@
 import openai
 
 # Replace 'your-api-key' with your actual OpenAI API key
-openai.api_key = sk-proj-gyZEl33ElA6XqtDPEbDMT3BlbkFJtIQcpeElYHxohzNuXeGz
+openai.api_key = 'sk-proj-gyZEl33ElA6XqtDPEbDMT3BlbkFJtIQcpeElYHxohzNuXeGz'
 
 response = openai.Completion.create(
   engine="text-davinci-003",  # Or another model like "gpt-3.5-turbo", "gpt-4", etc.
