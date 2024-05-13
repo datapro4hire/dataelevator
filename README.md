@@ -1,2 +1,2 @@
-# dataelevator
-Startup AI Agent
+# Idea Elevator
+Business Consultant AI Agent
